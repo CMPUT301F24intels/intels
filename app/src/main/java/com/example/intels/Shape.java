@@ -4,5 +4,5 @@ public class Shape {
     int x;
     int y;
 
-    String colour = "black";
+    String colour = "red";
 }
